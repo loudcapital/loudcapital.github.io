@@ -2,18 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zeraceee.github.io/blog/do-no-harm/</loc>
-    <lastmod>2017-03-09T10:09:16+00:00</lastmod>
+    <loc>https://zeraceee.github.io/blog/intention-and-entrepreneurship/</loc>
+    <lastmod>2017-03-11T07:50:24+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zeraceee.github.io/blog/medium-title-here/</loc>
-    <lastmod>2017-02-15T14:17:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeraceee.github.io/blog/are-we-at-peak-stock-photography/</loc>
-    <lastmod>2016-12-02T06:45:00-05:00</lastmod>
+    <loc>https://zeraceee.github.io/blog/the-future-of-user-generated-content-is-owned/</loc>
+    <lastmod>2017-03-11T07:46:38+00:00</lastmod>
   </url>
   
   <url>
@@ -22,13 +17,18 @@
   
   <url>
     <loc>https://zeraceee.github.io/blog/</loc>
-    <lastmod>2017-03-09T10:09:16+00:00</lastmod>
+    <lastmod>2017-03-11T07:50:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zeraceee.github.io/</loc>
-    <lastmod>2017-03-09T10:09:16+00:00</lastmod>
+    <lastmod>2017-03-11T07:50:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://zeraceee.github.io/realestate/</loc>
     <priority>0</priority>
   </url>
   

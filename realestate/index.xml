@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Realestates on Loud Capital</title>
+    <link>https://zeraceee.github.io/realestate/index.xml</link>
+    <description>Recent content in Realestates on Loud Capital</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://zeraceee.github.io/realestate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://zeraceee.github.io/realestate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeraceee.github.io/realestate/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
+
+  {{ partial &#34;head.html&#34; . }}
+
+  &lt;body id=&#34;page-top&#34; class=&#34;index&#34;&gt;
+    {{ partial &#34;rs-hero.html&#34; . }}
+    {{ partial &#34;rs-about.html&#34; . }}
+    {{ partial &#34;rs-team.html&#34; . }}
+    {{ partial &#34;rs-portfolio.html&#34; . }}
+    {{ partial &#34;rs-contact.html&#34; . }}
+    {{ partial &#34;footer.html&#34; . }}
+    {{ partial &#34;modals.html&#34; . }}
+    {{ partial &#34;js.html&#34; . }}
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
